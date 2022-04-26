@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "src"
+version = "0.1.0"
+description = ""
+authors = ["Madson Dias <madsonddias@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "~3.8"
+numpy = "^1.22.3"
+pandas = "^1.4.2"
+jupyterlab = "^3.3.4"
+scikit-learn = "^1.0.2"
+seaborn = "^0.11.2"
+matplotlib = "^3.5.1"
+mkdocs = "^1.3.0"
+invoke = "^1.7.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
