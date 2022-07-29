@@ -56,3 +56,4 @@ repos:
         args: [-r, notebooks/, docs/]
         pass_filenames: false
         require_serial: true
+        files: 'notebooks/'
