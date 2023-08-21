@@ -18,11 +18,8 @@ Insira aqui um resumo do projeto que será construído. Tente apresentar uma jus
 Esse template foi inicialmente baseado no [template de ciência de dados do cookiecutter](https://drivendata.github.io/cookiecutter-data-science/), mas ao longo do tempo várias modificações foram sendo realizadas. Atualmente o template tem as seguintes características:
  - Utilização do arquivo `pyproject.toml` como centralizador de dependências;
  - Configuração para criação de aplicação `streamlit`;
- - Configuração para hospedagem no [heroku](https://heroku.com);
- - Automatização de tarefas com o uso do [invoke](https://www.pyinvoke.org/);
  - Utilização de [jupyter notebooks](https://jupyter.org/) para arquivos de análise;
  - Documentação com o [mkdocs](https://www.mkdocs.org/) ([material design](https://squidfunk.github.io/mkdocs-material/) theme)
- - 
 
 ## Instruções
 
