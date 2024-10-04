@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Ensinio
+    url: https://atlanticoavanti.ensinio.com/g/bootcamp-ciencia-de-dados-copy
+    about: Plataforma de ensino.
+  - name: Discord
+    url: https://discord.com/channels/1284129128307626067/1284129128425066635
+    about: Comunidade do discord.
+  - name: Dúvidas
+    url: https://discord.com/channels/1284129128307626067/1284129128425066637
+    about: Canal de dúvidas da nossa comunidade do discord.
